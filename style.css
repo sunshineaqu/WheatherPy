@@ -1,0 +1,23 @@
+body {
+    background: lightgray;
+  }
+
+.container {
+    margin-top: 40px;
+}
+
+.card {
+    padding: 20px;
+}
+
+.navbar-brand {
+    background: lightseagreen;
+    font-size: 30px;
+    margin-left: 10%
+}
+
+@media (max-width: 480px) {
+    .navbar {
+      background-color: lightseagreen;
+    }
+ 
